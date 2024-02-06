@@ -1,8 +1,8 @@
-Read the homework description carefully before starting it. <br>
-[hw1.docx](https://github.com/rampurgeCSUMB/hw0_C_TEMPLATE/files/14185906/hw1.docx)
+Read the homework description carefully before starting it. 
+<br>
 
 <br>
-How to turn in:
+<strong>How to turn in: </strong>
 
 After pushing the final version to Github, hit the "Actions" tab. <br>
 Select "Github classroom flow" on the left side. <br>

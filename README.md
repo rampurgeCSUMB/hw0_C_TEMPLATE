@@ -1,6 +1,6 @@
-This is an exercise. There’s no actual credit for the homework 0. However, do your best to get the basic idea of how a homework assignment is downloaded, edited, submitted, and tested in CST370.
-
 Read the homework description carefully before starting it.
+[hw1.docx](https://github.com/rampurgeCSUMB/hw0_C_TEMPLATE/files/14185906/hw1.docx)
+
 
 How to turn in:
 

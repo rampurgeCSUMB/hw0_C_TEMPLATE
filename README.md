@@ -1,7 +1,7 @@
-Read the homework description carefully before starting it.
+Read the homework description carefully before starting it. <br>
 [hw1.docx](https://github.com/rampurgeCSUMB/hw0_C_TEMPLATE/files/14185906/hw1.docx)
 
-
+<br>
 How to turn in:
 
 After pushing the final version to Github, hit the "Actions" tab. <br>
